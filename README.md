@@ -15,3 +15,7 @@ Global variables use 22504 bytes (6%) of dynamic memory, leaving 305176 bytes fo
 Open the serial console with `115200 8N1`.
 
 
+## More
+
+* https://github.com/ShawnHymel/tinyml-example-anomaly-detection/tree/master
+  
